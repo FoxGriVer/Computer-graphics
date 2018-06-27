@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAbstractObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AbstractObject xsi:type="Line">
+    <Width>10</Width>
+    <Color>Blue</Color>
+    <StartPointX>523</StartPointX>
+    <StartPointY>0</StartPointY>
+    <EndPointX>118</EndPointX>
+    <EndPointY>222</EndPointY>
+  </AbstractObject>
+  <AbstractObject xsi:type="Poliline">
+    <Width>2</Width>
+    <Color>Red</Color>
+    <listOfPoints>
+      <OurPoint>
+        <Width>0</Width>
+        <X>60</X>
+        <Y>23</Y>
+      </OurPoint>
+      <OurPoint>
+        <Width>0</Width>
+        <X>186</X>
+        <Y>220</Y>
+      </OurPoint>
+      <OurPoint>
+        <Width>0</Width>
+        <X>587</X>
+        <Y>319</Y>
+      </OurPoint>
+      <OurPoint>
+        <Width>0</Width>
+        <X>500</X>
+        <Y>45</Y>
+      </OurPoint>
+    </listOfPoints>
+    <StartPointX>0</StartPointX>
+    <StartPointY>0</StartPointY>
+  </AbstractObject>
+  <AbstractObject xsi:type="Bizie">
+    <Width>2</Width>
+    <Color>Red</Color>
+    <StartPoint>
+      <Width>0</Width>
+      <X>25</X>
+      <Y>32</Y>
+    </StartPoint>
+    <EndPoint>
+      <Width>0</Width>
+      <X>335</X>
+      <Y>112</Y>
+    </EndPoint>
+    <MejPoint1>
+      <Width>0</Width>
+      <X>125</X>
+      <Y>232</Y>
+    </MejPoint1>
+    <MejPoint2>
+      <Width>0</Width>
+      <X>55</X>
+      <Y>72</Y>
+    </MejPoint2>
+  </AbstractObject>
+  <AbstractObject xsi:type="Text">
+    <Width>0</Width>
+    <Color>Red</Color>
+    <TextBox>Наш текст</TextBox>
+    <Pozition>
+      <Width>0</Width>
+      <X>525</X>
+      <Y>60</Y>
+    </Pozition>
+    <Font>Arial</Font>
+    <Size>20</Size>
+  </AbstractObject>
+  <AbstractObject xsi:type="Cirlcle">
+    <Width>8</Width>
+    <Color>Blue</Color>
+    <Center>
+      <Width>0</Width>
+      <X>68</X>
+      <Y>355</Y>
+    </Center>
+    <Radius>45</Radius>
+    <Fill>true</Fill>
+    <BorderColor>Green</BorderColor>
+  </AbstractObject>
+  <AbstractObject xsi:type="Ellipsis">
+    <Width>5</Width>
+    <Color>Green</Color>
+    <Center>
+      <Width>0</Width>
+      <X>269</X>
+      <Y>355</Y>
+    </Center>
+    <Radius>0</Radius>
+    <Fill>true</Fill>
+    <BorderColor>Yellow</BorderColor>
+    <WidthX>90</WidthX>
+    <Height>50</Height>
+  </AbstractObject>
+  <AbstractObject xsi:type="Polygon">
+    <Width>5</Width>
+    <Color>Blue</Color>
+    <listOfPoints>
+      <OurPoint>
+        <Width>0</Width>
+        <X>386</X>
+        <Y>420</Y>
+      </OurPoint>
+      <OurPoint>
+        <Width>0</Width>
+        <X>587</X>
+        <Y>399</Y>
+      </OurPoint>
+      <OurPoint>
+        <Width>0</Width>
+        <X>560</X>
+        <Y>315</Y>
+      </OurPoint>
+    </listOfPoints>
+    <Fill>true</Fill>
+    <BorderColor>Red</BorderColor>
+  </AbstractObject>
+  <AbstractObject xsi:type="Rectangle">
+    <Width>5</Width>
+    <Color>Yellow</Color>
+    <StartPoint>
+      <Width>0</Width>
+      <X>22</X>
+      <Y>250</Y>
+    </StartPoint>
+    <BorderColor>Blue</BorderColor>
+    <WidthX>100</WidthX>
+    <Height>40</Height>
+    <Fill>true</Fill>
+  </AbstractObject>
+</ArrayOfAbstractObject>

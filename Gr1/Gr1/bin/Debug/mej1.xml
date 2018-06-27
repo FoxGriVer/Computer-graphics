@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAbstractObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AbstractObject xsi:type="Rectangle">
+    <Width>2</Width>
+    <Color>Red</Color>
+    <StartPoint>
+      <Width>0</Width>
+      <X>40</X>
+      <Y>30</Y>
+    </StartPoint>
+    <BorderColor>Red</BorderColor>
+    <WidthX>150</WidthX>
+    <Height>60</Height>
+    <Fill>true</Fill>
+  </AbstractObject>
+  <AbstractObject xsi:type="Rectangle">
+    <Width>5</Width>
+    <Color>Yellow</Color>
+    <StartPoint>
+      <Width>0</Width>
+      <X>40</X>
+      <Y>120</Y>
+    </StartPoint>
+    <BorderColor>Blue</BorderColor>
+    <WidthX>150</WidthX>
+    <Height>60</Height>
+    <Fill>true</Fill>
+  </AbstractObject>
+  <AbstractObject xsi:type="Rectangle">
+    <Width>5</Width>
+    <Color>White</Color>
+    <StartPoint>
+      <Width>0</Width>
+      <X>40</X>
+      <Y>210</Y>
+    </StartPoint>
+    <BorderColor>Blue</BorderColor>
+    <WidthX>150</WidthX>
+    <Height>60</Height>
+    <Fill>true</Fill>
+  </AbstractObject>
+  <AbstractObject xsi:type="Rectangle">
+    <Width>15</Width>
+    <Color>White</Color>
+    <StartPoint>
+      <Width>0</Width>
+      <X>40</X>
+      <Y>300</Y>
+    </StartPoint>
+    <BorderColor>Red</BorderColor>
+    <WidthX>150</WidthX>
+    <Height>60</Height>
+    <Fill>true</Fill>
+  </AbstractObject>
+  <AbstractObject xsi:type="Cirlcle">
+    <Width>2</Width>
+    <Color>Green</Color>
+    <Center>
+      <Width>0</Width>
+      <X>20</X>
+      <Y>380</Y>
+    </Center>
+    <Radius>100</Radius>
+    <Fill>true</Fill>
+    <BorderColor>Green</BorderColor>
+  </AbstractObject>
+  <AbstractObject xsi:type="Cirlcle">
+    <Width>4</Width>
+    <Color>Gray</Color>
+    <Center>
+      <Width>0</Width>
+      <X>20</X>
+      <Y>390</Y>
+    </Center>
+    <Radius>80</Radius>
+    <Fill>true</Fill>
+    <BorderColor>Black</BorderColor>
+  </AbstractObject>
+  <AbstractObject xsi:type="Cirlcle">
+    <Width>2</Width>
+    <Color>Black</Color>
+    <Center>
+      <Width>0</Width>
+      <X>45</X>
+      <Y>405</Y>
+    </Center>
+    <Radius>50</Radius>
+    <Fill>true</Fill>
+    <BorderColor>Black</BorderColor>
+  </AbstractObject>
+  <AbstractObject xsi:type="Cirlcle">
+    <Width>2</Width>
+    <Color>White</Color>
+    <Center>
+      <Width>0</Width>
+      <X>70</X>
+      <Y>420</Y>
+    </Center>
+    <Radius>20</Radius>
+    <Fill>true</Fill>
+    <BorderColor>White</BorderColor>
+  </AbstractObject>
+  <AbstractObject xsi:type="Cirlcle">
+    <Width>2</Width>
+    <Color>Green</Color>
+    <Center>
+      <Width>0</Width>
+      <X>150</X>
+      <Y>380</Y>
+    </Center>
+    <Radius>100</Radius>
+    <Fill>true</Fill>
+    <BorderColor>Green</BorderColor>
+  </AbstractObject>
+  <AbstractObject xsi:type="Cirlcle">
+    <Width>4</Width>
+    <Color>Gray</Color>
+    <Center>
+      <Width>0</Width>
+      <X>150</X>
+      <Y>390</Y>
+    </Center>
+    <Radius>80</Radius>
+    <Fill>true</Fill>
+    <BorderColor>Black</BorderColor>
+  </AbstractObject>
+  <AbstractObject xsi:type="Cirlcle">
+    <Width>2</Width>
+    <Color>Black</Color>
+    <Center>
+      <Width>0</Width>
+      <X>175</X>
+      <Y>405</Y>
+    </Center>
+    <Radius>50</Radius>
+    <Fill>true</Fill>
+    <BorderColor>Black</BorderColor>
+  </AbstractObject>
+  <AbstractObject xsi:type="Cirlcle">
+    <Width>2</Width>
+    <Color>White</Color>
+    <Center>
+      <Width>0</Width>
+      <X>200</X>
+      <Y>420</Y>
+    </Center>
+    <Radius>20</Radius>
+    <Fill>true</Fill>
+    <BorderColor>White</BorderColor>
+  </AbstractObject>
+  <AbstractObject xsi:type="Text">
+    <Width>0</Width>
+    <Color>Red</Color>
+    <TextBox>Color: Red; BorderColor: none</TextBox>
+    <Pozition>
+      <Width>0</Width>
+      <X>40</X>
+      <Y>10</Y>
+    </Pozition>
+    <Font>Arial</Font>
+    <Size>8</Size>
+  </AbstractObject>
+  <AbstractObject xsi:type="Text">
+    <Width>0</Width>
+    <Color>Red</Color>
+    <TextBox>Color: Yellow; BorderColor: Blue</TextBox>
+    <Pozition>
+      <Width>0</Width>
+      <X>40</X>
+      <Y>100</Y>
+    </Pozition>
+    <Font>Arial</Font>
+    <Size>8</Size>
+  </AbstractObject>
+  <AbstractObject xsi:type="Text">
+    <Width>0</Width>
+    <Color>Red</Color>
+    <TextBox>Color: none; BorderColor: Blue</TextBox>
+    <Pozition>
+      <Width>0</Width>
+      <X>40</X>
+      <Y>190</Y>
+    </Pozition>
+    <Font>Arial</Font>
+    <Size>8</Size>
+  </AbstractObject>
+  <AbstractObject xsi:type="Text">
+    <Width>0</Width>
+    <Color>Red</Color>
+    <TextBox>Color: none; BorderColor: Red</TextBox>
+    <Pozition>
+      <Width>0</Width>
+      <X>40</X>
+      <Y>275</Y>
+    </Pozition>
+    <Font>Arial</Font>
+    <Size>8</Size>
+  </AbstractObject>
+  <AbstractObject xsi:type="Text">
+    <Width>0</Width>
+    <Color>Green</Color>
+    <TextBox>1</TextBox>
+    <Pozition>
+      <Width>0</Width>
+      <X>10</X>
+      <Y>40</Y>
+    </Pozition>
+    <Font>Arial</Font>
+    <Size>20</Size>
+  </AbstractObject>
+  <AbstractObject xsi:type="Text">
+    <Width>0</Width>
+    <Color>Green</Color>
+    <TextBox>2</TextBox>
+    <Pozition>
+      <Width>0</Width>
+      <X>10</X>
+      <Y>130</Y>
+    </Pozition>
+    <Font>Arial</Font>
+    <Size>20</Size>
+  </AbstractObject>
+  <AbstractObject xsi:type="Text">
+    <Width>0</Width>
+    <Color>Green</Color>
+    <TextBox>3</TextBox>
+    <Pozition>
+      <Width>0</Width>
+      <X>10</X>
+      <Y>220</Y>
+    </Pozition>
+    <Font>Arial</Font>
+    <Size>20</Size>
+  </AbstractObject>
+  <AbstractObject xsi:type="Text">
+    <Width>0</Width>
+    <Color>Green</Color>
+    <TextBox>4</TextBox>
+    <Pozition>
+      <Width>0</Width>
+      <X>10</X>
+      <Y>310</Y>
+    </Pozition>
+    <Font>Arial</Font>
+    <Size>20</Size>
+  </AbstractObject>
+</ArrayOfAbstractObject>
