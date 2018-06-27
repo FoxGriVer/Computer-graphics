@@ -1,0 +1,9 @@
+c:\users\pavel\documents\visual studio 2015\Projects\Gr6\Gr6\bin\Debug\Gr6.exe.config
+c:\users\pavel\documents\visual studio 2015\Projects\Gr6\Gr6\bin\Debug\Gr6.exe
+c:\users\pavel\documents\visual studio 2015\Projects\Gr6\Gr6\bin\Debug\Gr6.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\Gr6\Gr6\obj\Debug\Gr6.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2015\Projects\Gr6\Gr6\obj\Debug\Gr6.Form1.resources
+c:\users\pavel\documents\visual studio 2015\Projects\Gr6\Gr6\obj\Debug\Gr6.Properties.Resources.resources
+c:\users\pavel\documents\visual studio 2015\Projects\Gr6\Gr6\obj\Debug\Gr6.csproj.GenerateResource.Cache
+c:\users\pavel\documents\visual studio 2015\Projects\Gr6\Gr6\obj\Debug\Gr6.exe
+c:\users\pavel\documents\visual studio 2015\Projects\Gr6\Gr6\obj\Debug\Gr6.pdb
