@@ -1,0 +1,39 @@
+///просто вставить перед DrawElements()
+Circle circle1 = new Circle(WorldToScreen(new OurPoint(-130, -15)), 60, 360, 0);
+            ListOfObjects.Add(circle1);
+
+            List<OurPoint> ourPoints1 = new List<OurPoint>();
+            OurPoint p1 = WorldToScreen(new OurPoint(-140, 5));
+            ourPoints1.Add(p1);
+            OurPoint p2 = WorldToScreen(new OurPoint(-200, 85));
+            ourPoints1.Add(p2);
+            OurPoint p3 = WorldToScreen(new OurPoint(-80, 85));
+            ourPoints1.Add(p3);
+            OurPoint p4 = WorldToScreen(new OurPoint(-140, 5));
+            ourPoints1.Add(p4);
+            Poliline polygon1 = new Poliline(p1.X, p1.Y, ourPoints1);
+            ListOfObjects.Add(polygon1);
+
+            List<OurPoint> ourPoints2 = new List<OurPoint>();
+            OurPoint p21 = WorldToScreen(new OurPoint(-40, 15));
+            ourPoints2.Add(p21);
+            OurPoint p22 = WorldToScreen(new OurPoint(-100, 10));
+            ourPoints2.Add(p22);
+            OurPoint p23 = WorldToScreen(new OurPoint(-70, 65));
+            ourPoints2.Add(p23);
+            OurPoint p24 = WorldToScreen(new OurPoint(-220, 30));
+            ourPoints2.Add(p24);
+            OurPoint p25 = WorldToScreen(new OurPoint(-170, -15));
+            ourPoints2.Add(p25);
+            OurPoint p26 = WorldToScreen(new OurPoint(-200, -70));
+            ourPoints2.Add(p26);
+            OurPoint p27 = WorldToScreen(new OurPoint(-145, -30));
+            ourPoints2.Add(p27);
+            OurPoint p28 = WorldToScreen(new OurPoint(-70, -70));
+            ourPoints2.Add(p28);
+            OurPoint p29 = WorldToScreen(new OurPoint(-90, -35));
+            ourPoints2.Add(p29);
+            OurPoint p210 = WorldToScreen(new OurPoint(-40, 15));
+            ourPoints2.Add(p210);
+            Poliline polygon2 = new Poliline(p21.X, p21.Y, ourPoints2);
+            ListOfObjects.Add(polygon2);

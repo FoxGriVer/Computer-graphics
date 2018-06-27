@@ -1,0 +1,9 @@
+c:\users\pavel\documents\visual studio 2015\Projects\Gr3V2\Gr3V2\bin\Debug\Gr3V2.exe.config
+c:\users\pavel\documents\visual studio 2015\Projects\Gr3V2\Gr3V2\bin\Debug\Gr3V2.exe
+c:\users\pavel\documents\visual studio 2015\Projects\Gr3V2\Gr3V2\bin\Debug\Gr3V2.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\Gr3V2\Gr3V2\obj\Debug\Gr3V2.Form1.resources
+c:\users\pavel\documents\visual studio 2015\Projects\Gr3V2\Gr3V2\obj\Debug\Gr3V2.Properties.Resources.resources
+c:\users\pavel\documents\visual studio 2015\Projects\Gr3V2\Gr3V2\obj\Debug\Gr3V2.csproj.GenerateResource.Cache
+c:\users\pavel\documents\visual studio 2015\Projects\Gr3V2\Gr3V2\obj\Debug\Gr3V2.exe
+c:\users\pavel\documents\visual studio 2015\Projects\Gr3V2\Gr3V2\obj\Debug\Gr3V2.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\Gr3V2\Gr3V2\obj\Debug\Gr3V2.csprojResolveAssemblyReference.cache

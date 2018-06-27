@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAbstractObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AbstractObject xsi:type="Circle">
+    <Center>
+      <listOfCoordinates />
+      <X>170</X>
+      <Y>315</Y>
+      <H>0</H>
+    </Center>
+    <Radius>60</Radius>
+    <Angle1>360</Angle1>
+    <Angle2>0</Angle2>
+  </AbstractObject>
+  <AbstractObject xsi:type="Poliline">
+    <listOfPoints>
+      <OurPoint>
+        <listOfCoordinates />
+        <X>160</X>
+        <Y>295</Y>
+        <H>0</H>
+      </OurPoint>
+      <OurPoint>
+        <listOfCoordinates />
+        <X>100</X>
+        <Y>215</Y>
+        <H>0</H>
+      </OurPoint>
+      <OurPoint>
+        <listOfCoordinates />
+        <X>220</X>
+        <Y>215</Y>
+        <H>0</H>
+      </OurPoint>
+      <OurPoint>
+        <listOfCoordinates />
+        <X>160</X>
+        <Y>295</Y>
+        <H>0</H>
+      </OurPoint>
+    </listOfPoints>
+    <StartPointX>160</StartPointX>
+    <StartPointY>295</StartPointY>
+  </AbstractObject>
+  <AbstractObject xsi:type="Poliline">
+    <listOfPoints>
+      <OurPoint>
+        <listOfCoordinates />
+        <X>260</X>
+        <Y>285</Y>
+        <H>0</H>
+      </OurPoint>
+      <OurPoint>
+        <listOfCoordinates />
+        <X>200</X>
+        <Y>290</Y>
+        <H>0</H>
+      </OurPoint>
+      <OurPoint>
+        <listOfCoordinates />
+        <X>230</X>
+        <Y>235</Y>
+        <H>0</H>
+      </OurPoint>
+      <OurPoint>
+        <listOfCoordinates />
+        <X>80</X>
+        <Y>270</Y>
+        <H>0</H>
+      </OurPoint>
+      <OurPoint>
+        <listOfCoordinates />
+        <X>130</X>
+        <Y>315</Y>
+        <H>0</H>
+      </OurPoint>
+      <OurPoint>
+        <listOfCoordinates />
+        <X>100</X>
+        <Y>370</Y>
+        <H>0</H>
+      </OurPoint>
+      <OurPoint>
+        <listOfCoordinates />
+        <X>155</X>
+        <Y>330</Y>
+        <H>0</H>
+      </OurPoint>
+      <OurPoint>
+        <listOfCoordinates />
+        <X>230</X>
+        <Y>370</Y>
+        <H>0</H>
+      </OurPoint>
+      <OurPoint>
+        <listOfCoordinates />
+        <X>210</X>
+        <Y>335</Y>
+        <H>0</H>
+      </OurPoint>
+      <OurPoint>
+        <listOfCoordinates />
+        <X>260</X>
+        <Y>285</Y>
+        <H>0</H>
+      </OurPoint>
+    </listOfPoints>
+    <StartPointX>260</StartPointX>
+    <StartPointY>285</StartPointY>
+  </AbstractObject>
+</ArrayOfAbstractObject>
