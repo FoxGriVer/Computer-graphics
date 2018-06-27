@@ -1,0 +1,9 @@
+c:\users\pavel\documents\visual studio 2015\Projects\TryGr4\TryGr4\bin\Debug\TryGr4.exe.config
+c:\users\pavel\documents\visual studio 2015\Projects\TryGr4\TryGr4\bin\Debug\TryGr4.exe
+c:\users\pavel\documents\visual studio 2015\Projects\TryGr4\TryGr4\bin\Debug\TryGr4.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\TryGr4\TryGr4\obj\Debug\TryGr4.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2015\Projects\TryGr4\TryGr4\obj\Debug\TryGr4.Form1.resources
+c:\users\pavel\documents\visual studio 2015\Projects\TryGr4\TryGr4\obj\Debug\TryGr4.Properties.Resources.resources
+c:\users\pavel\documents\visual studio 2015\Projects\TryGr4\TryGr4\obj\Debug\TryGr4.csproj.GenerateResource.Cache
+c:\users\pavel\documents\visual studio 2015\Projects\TryGr4\TryGr4\obj\Debug\TryGr4.exe
+c:\users\pavel\documents\visual studio 2015\Projects\TryGr4\TryGr4\obj\Debug\TryGr4.pdb
