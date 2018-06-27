@@ -1,0 +1,9 @@
+c:\users\pavel\documents\visual studio 2015\Projects\GR2\GR2\bin\Debug\GR2.exe.config
+c:\users\pavel\documents\visual studio 2015\Projects\GR2\GR2\bin\Debug\GR2.exe
+c:\users\pavel\documents\visual studio 2015\Projects\GR2\GR2\bin\Debug\GR2.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\GR2\GR2\obj\Debug\GR2.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2015\Projects\GR2\GR2\obj\Debug\GR2.Form1.resources
+c:\users\pavel\documents\visual studio 2015\Projects\GR2\GR2\obj\Debug\GR2.Properties.Resources.resources
+c:\users\pavel\documents\visual studio 2015\Projects\GR2\GR2\obj\Debug\GR2.csproj.GenerateResource.Cache
+c:\users\pavel\documents\visual studio 2015\Projects\GR2\GR2\obj\Debug\GR2.exe
+c:\users\pavel\documents\visual studio 2015\Projects\GR2\GR2\obj\Debug\GR2.pdb
