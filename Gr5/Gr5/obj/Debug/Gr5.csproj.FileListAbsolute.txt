@@ -1,0 +1,9 @@
+c:\users\pavel\documents\visual studio 2015\Projects\Gr5\Gr5\bin\Debug\Gr5.exe.config
+c:\users\pavel\documents\visual studio 2015\Projects\Gr5\Gr5\bin\Debug\Gr5.exe
+c:\users\pavel\documents\visual studio 2015\Projects\Gr5\Gr5\bin\Debug\Gr5.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\Gr5\Gr5\obj\Debug\Gr5.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2015\Projects\Gr5\Gr5\obj\Debug\Gr5.Form1.resources
+c:\users\pavel\documents\visual studio 2015\Projects\Gr5\Gr5\obj\Debug\Gr5.Properties.Resources.resources
+c:\users\pavel\documents\visual studio 2015\Projects\Gr5\Gr5\obj\Debug\Gr5.csproj.GenerateResource.Cache
+c:\users\pavel\documents\visual studio 2015\Projects\Gr5\Gr5\obj\Debug\Gr5.exe
+c:\users\pavel\documents\visual studio 2015\Projects\Gr5\Gr5\obj\Debug\Gr5.pdb
